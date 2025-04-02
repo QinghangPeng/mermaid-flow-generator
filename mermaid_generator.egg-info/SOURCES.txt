@@ -1,0 +1,8 @@
+README.md
+setup.py
+mermaid_generator.egg-info/PKG-INFO
+mermaid_generator.egg-info/SOURCES.txt
+mermaid_generator.egg-info/dependency_links.txt
+mermaid_generator.egg-info/entry_points.txt
+mermaid_generator.egg-info/requires.txt
+mermaid_generator.egg-info/top_level.txt

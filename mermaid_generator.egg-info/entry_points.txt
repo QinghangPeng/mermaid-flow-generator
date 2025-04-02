@@ -1,0 +1,5 @@
+[console_scripts]
+mermaid-gen = mermaid_generator:main
+mermaid-gui = mermaid_gui:main
+mermaid-web = mermaid_web_gui:main
+

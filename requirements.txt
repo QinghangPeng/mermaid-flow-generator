@@ -1,0 +1,4 @@
+# Mermaid 流程图生成工具依赖
+Pillow>=9.0.0  # 用于图像处理和显示
+setuptools>=42.0.0  # 用于安装和打包
+flask>=2.0.0  # 用于 Web GUI 
